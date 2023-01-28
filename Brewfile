@@ -1,0 +1,12 @@
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+
+brew "git"
+cask "alfred"
+cask "anki"
+cask "firefox"
+cask "rectangle"
+cask "time-out"
+cask "todoist"
+cask "visual-studio-code"
